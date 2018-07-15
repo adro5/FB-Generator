@@ -1,7 +1,0 @@
-What makes a game a good game:
-
-1. Closeness of a game (low score differential)
-2. Total score of a game
-3. Ranking of opponent 
-
-Ranking formula: .75(score diff) + .25(total score)
