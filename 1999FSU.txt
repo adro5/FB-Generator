@@ -1,0 +1,13 @@
+G,Date,Day,School,,Opponent,Conf,,Pts,Opp,W,L,Streak,Notes
+1,Aug 28 1999,Sat,(1) Florida State,,Louisiana Tech,Ind,W,41,7,1,0,W 1,
+2,Sep 11 1999,Sat,(1) Florida State,,(10) Georgia Tech,ACC,W,41,35,2,0,W 2,
+3,Sep 18 1999,Sat,(1) Florida State,,(20) North Carolina State,ACC,W,42,11,3,0,W 3,
+4,Sep 25 1999,Sat,(1) Florida State,@,North Carolina,ACC,W,42,10,4,0,W 4,
+5,Oct 2 1999,Sat,(1) Florida State,,Duke,ACC,W,51,23,5,0,W 5,Jacksonville FL
+6,Oct 9 1999,Sat,(1) Florida State,,(19) Miami (FL),Big East,W,31,21,6,0,W 6,
+7,Oct 16 1999,Sat,(1) Florida State,,Wake Forest,ACC,W,33,10,7,0,W 7,
+8,Oct 23 1999,Sat,(1) Florida State,@,Clemson,ACC,W,17,14,8,0,W 8,
+9,Oct 30 1999,Sat,(1) Florida State,@,Virginia,ACC,W,35,10,9,0,W 9,
+10,Nov 13 1999,Sat,(1) Florida State,,Maryland,ACC,W,49,10,10,0,W 10,
+11,Nov 20 1999,Sat,(1) Florida State,@,(3) Florida,SEC,W,30,23,11,0,W 11,
+12,Jan 4 2000,Tue,(1) Florida State,N,(2) Virginia Tech,Big East,W,46,29,12,0,W 12,Sugar Bowl (Sugar Bowl (New Orleans LA))
