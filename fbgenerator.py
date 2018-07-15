@@ -34,7 +34,7 @@ print(selected_data)
 selected_data.to_csv("final_rank.csv", index=False)
 
 for i, row in selected_data.iterrows():
-    strFBq = row[2] + " " + row[3]
+    strFBq = row[0] + " " + row[2] + " " + row[3]
     query_string = urllib.parse.urlencode({"search_query" : strFBq})
     html_content = urllib.request.urlopen("http://www.youtube.com/results?" + query_string)
     search_results = re.findall(r'href=\"\/watch\?v=(.{11})', html_content.read().decode())
