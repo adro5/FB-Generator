@@ -10,7 +10,6 @@ import tkinter as tk
 import urllib.request
 import urllib.parse
 import re
-from bs4 import BeautifulSoup
 from tkinter import filedialog
 
 root = tk.Tk()
