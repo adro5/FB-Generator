@@ -3,6 +3,8 @@
 Created on Fri Jul 13 17:53:41 2018
 
 @author: Adam Robinson
+
+Next step: Organize and comment and fix slow loop
 """
 
 import pandas as pd
