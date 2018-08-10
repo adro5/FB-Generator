@@ -20,7 +20,7 @@ root.withdraw()
 year1 = pd.read_csv(filedialog.askopenfilename(filetypes=(("csv UTF-8 files", "*.csv"),)))
 year2 = pd.read_csv(filedialog.askopenfilename(filetypes=(("csv UTF-8 files", "*.csv"),)))
 merged_tbl = year1.merge(year2, how="outer")
-"""print(merged_tbl)"""
+
 merged_tbl.to_csv("merged_data.csv", index=False)
 merged_tbl = merged_tbl.dropna(axis=1)
 
